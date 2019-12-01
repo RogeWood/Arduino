@@ -1,6 +1,12 @@
 # Arduino
 Arduino的一些code
+
 主要是上課學的(經費不夠自己玩)
+
+以Arduino執行
+
+用C編譯
+
 ## LED
 紅黃綠輪流閃
 應用:
